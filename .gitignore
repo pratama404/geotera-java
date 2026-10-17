@@ -1,0 +1,13 @@
+# Hasil build dan file hasil kompilasi
+/build/
+/dist/
+
+# File sementara Java
+*.class
+
+# File konfigurasi lokal IDE
+nbproject/private/
+
+# File sistem operasi
+.DS_Store
+Thumbs.db
